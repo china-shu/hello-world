@@ -10,5 +10,4 @@ let's review previous actions
 # now
 修改自述文件，保存，进行提交修改 commit changes 
 # last
-提交修改
-题求修改描述
+提交修改，提求修改描述
